@@ -1,0 +1,14 @@
+#content{
+    text-align: center;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    background-color: red;
+    color: blue;
+    font-size: 72px;
+    text-align: center;
+    vertical-align: center;
+}
